@@ -37,9 +37,7 @@ Tenho 29 anos, moro no Rio de Janeiro/RJ e sou apaixonada por programação! Sou
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsfidelis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
 </div>
-  
-![Snake animation](https://github.com/gsfidelis/gsfidelis/blob/output/github-contribution-grid-snake.svg)
-
+ 
 
 
 
