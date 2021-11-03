@@ -13,7 +13,7 @@ Tenho 29 anos, moro no Rio de Janeiro/RJ e sou apaixonada por programação! Sou
 
 
 
-🤿 Faço parte do Scuba Team da Alura;
+🤿 Faço parte do time de alunos da Alura;
 
 📚 Atualmente cursando Analise Desenvolvimento de Sistemas, e tenho estudado Java e iniciei meus estudos para certificação Java e Spring Framework;
 
