@@ -1,8 +1,8 @@
 ## Guilherme Fidelis
 
 
-### Hello, Devs!!
-Tenho 29 anos, moro no Rio de Janeiro/RJ e sou apaixonada por programação! Sou iniciante no universo da programação, caçador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu me apaixono por esse universo incrível.
+### Hello, World!!
+Tenho 30 anos, moro no Rio de Janeiro/RJ e sou apaixonada por programação! Sou iniciante no universo da programação, caçador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu me apaixono por esse universo incrível.
 
 
 
@@ -15,7 +15,7 @@ Tenho 29 anos, moro no Rio de Janeiro/RJ e sou apaixonada por programação! Sou
 
 🤿 Faço parte do time de alunos da Alura;
 
-📚 Atualmente cursando Analise Desenvolvimento de Sistemas, e tenho estudado Java e iniciei meus estudos para certificação Java e Spring Framework;
+📚 Atualmente cursando Analise Desenvolvimento de Sistemas, Tenho estudado Java e iniciei meus estudos para certificação Java e Spring Framework;
 
 
 ☕🎮Amo café, adoro games (principalmente os "Souls  Like") e faço piadas ruins com certa frequência.
