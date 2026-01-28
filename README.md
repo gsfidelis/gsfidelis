@@ -1,10 +1,7 @@
 ## Guilherme Fidelis
 
 
-### Hello, World!!
-Me chamo Guilherme, Tenho 30 anos, moro no Rio de Janeiro/RJ e sou apaixonado por programaçã, sou iniciante no universo da programação, caçador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu me apaixono por esse universo incrível.
-
-
+Dev Java com 04 anos de experiência e contando...
 
 🖥️ Tecnologias e Ferramentas:
 
@@ -13,12 +10,10 @@ Me chamo Guilherme, Tenho 30 anos, moro no Rio de Janeiro/RJ e sou apaixonado po
 
 
 
-🤿 Faço parte do time de alunos da Alura;
-
-📚 Atualmente cursando Analise Desenvolvimento de Sistemas, tenho estudado Java e iniciei meus estudos para certificação Java e Spring Framework;
+📚 Formado em Analise Desenvolvimento de Sistemas.
 
 
-☕🎮Amo café, adoro games (principalmente os "Souls  Like") e faço piadas ruins com certa frequência.
+☕🎮Amo café e SoulsLike.
 
 
 📫 Você pode falar comigo pelo Instagram ou pelo LinkedIn e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
